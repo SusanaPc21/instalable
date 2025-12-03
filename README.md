@@ -56,7 +56,7 @@ http://localhost/AWP/U1/SW4/
 3. Revisa que los iconos se carguen correctamente
 
 ### 4. Probar A2HS (Add to Home Screen)
-1. El botón "📱 Instalar Aplicación" aparecerá automáticamente si la PWA es instalable
+1. El botón "Instalar Aplicación" aparecerá automáticamente si la PWA es instalable
 2. Click en el botón para instalar
 3. Acepta el prompt del navegador
 4. La app se instalará en tu dispositivo/sistema
