@@ -5,13 +5,13 @@ Aplicación Web Progresiva (PWA) sobre las mejores razas de vacas según Susana 
 
 ## Características Implementadas
 
-### ✅ Manifest Web App (manifest.webmanifest)
+###  Manifest Web App (manifest.webmanifest)
 - Configuración completa para PWA
 - Soporte para Display Browser con `display_override`
 - Metadata de la aplicación (nombre, descripción, colores, orientación)
 - Referencias a los 7 iconos en diferentes tamaños
 
-### ✅ Pack de Iconos + Favicon
+###  Pack de Iconos + Favicon
 - **7 tamaños de iconos PNG:**
   - 72x72px
   - 96x96px
@@ -22,14 +22,14 @@ Aplicación Web Progresiva (PWA) sobre las mejores razas de vacas según Susana 
   - 512x512px (maskable)
 - **favicon.ico** (32x32px)
 
-### ✅ Service Worker Adaptado
+###  Service Worker Adaptado
 - Cache estático mejorado (versión v2)
 - Incluye manifest y todos los iconos en el cache
 - Estrategia Network First con fallback a cache
 - Página offline personalizada
 - Soporte para notificaciones push
 
-### ✅ Add to Home Screen (A2HS)
+###  Add to Home Screen (A2HS)
 - Detección del evento `beforeinstallprompt`
 - Botón de instalación personalizado
 - Manejo de estados de instalación
